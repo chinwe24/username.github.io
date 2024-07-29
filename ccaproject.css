@@ -1,0 +1,140 @@
+@font-face {
+    font-family: satoshi;
+    src: url(./fonts/Satoshi-Bold.woff2);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: satoshi;
+    src: url(./fonts/Satoshi-Medium.woff2);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: satoshi;
+    src: url(./fonts/Satoshi-Regular.woff2);
+    font-weight: 400;
+}
+
+* {
+    box-sizing: border-box;
+
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.sp{
+    font-size: 4.6rem;
+    font-weight: 700;
+}
+
+ul{
+    font-weight: 300;
+}
+
+.Ge{
+    padding: 1.0rem 1.0rem;
+    gap: 1.0rem;
+    background: #022C22;
+    color: white;
+}
+
+.create{
+    font-size: 6.0rem;
+}
+.see{
+    background: #022C22;
+}
+.imageA{
+   
+    width: 44rem;
+    height: 46.4rem;
+}
+.imageB{
+   
+    width: 42rem;
+    height: 46.4rem;
+}
+.imageC{
+
+    width: 42rem;
+    height: 46.4rem;
+}
+
+.p2{
+    width: 60.25rem;
+    height: 60.25rem;
+}
+.pi1{
+    width: 60.25rem;
+    height: 60.25rem;
+}
+.box {
+    background: var(--pri-color, #022C22);
+}
+
+.G{
+    width: 29.4rem;
+    height: Hug 1.12rem;
+    padding: 3.2rem 4.8rem;
+    gap: 1.0rem;
+    border-radius: 2.0rem 2.0rem;
+    background: #022C22;
+}
+
+.in {
+    width: Fixed (50.1rem)rem;
+    height: Hug (7.6rem)rem;
+    border-radius: 1.0rem 1.0rem;
+    padding: 1.6rem 2.4rem;
+    gap: 0.8rem;
+    opacity: 0rem;
+}
+.getin {
+    width: Hug (13.6rem)rem;
+    height: Hug (5.6rem)rem;
+    padding: 1.6rem 2.4rem 1.6rem 2.4rem;
+    gap: 1.0rem;
+    border-radius: 1.0rem 1.0rem;
+    opacity: 0rem;
+    background: var(--sec-color, #BEF264);
+}
+tr {
+    width: Hug (35.2rem)rem;
+    height: Hug (16.8rem)rem;
+    gap: 2.4rem;
+    opacity: 0px;
+}
+
+th {
+    width: 35.2rem;
+    height: 2.4rem;
+    opacity: 0px;
+    font-family: Satoshi;
+    font-weight: 500;
+    line-height: 2.4rem;
+    letter-spacing: -0.004em;
+}
+
+td {
+    width: 18.0rem;
+    height: 2.4rem;
+    opacity: 0rem;
+    font-family: Satoshi;
+    font-weight: 400;
+    line-height: 2.4rem;
+    letter-spacing: -0.004em;
+    color: #646A69;
+}
+.H{
+    background: #022C22;
+}
+.sm {
+    width: Fixed (51.2em)rem;
+    height: Hug (30.4rem)rem;
+    gap: 1.6rem;
+    opacity: 0rem;
+  
+}
